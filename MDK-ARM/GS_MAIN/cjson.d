@@ -1,0 +1,9 @@
+gs_main\cjson.o: ..\CJSON\cJSON.c
+gs_main\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+gs_main\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+gs_main\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+gs_main\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+gs_main\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+gs_main\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+gs_main\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+gs_main\cjson.o: ..\CJSON\cJSON.h
